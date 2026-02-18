@@ -46,7 +46,6 @@ Este repositório serve como:
 ### Backend
 - 🟢 Node.js / Express
 - 🐍 Python / Django ou Flask
-- ☕ Java / Spring Boot
 - 🗄️ APIs RESTful
 
 ### Banco de Dados
