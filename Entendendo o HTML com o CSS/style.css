@@ -1,0 +1,15 @@
+/* zerar a margem automatica */
+
+body {
+  margin: 0;
+}
+
+/* configuracoes basicas  */
+
+.TituloH1 {
+  color: red;
+}
+
+.TagsBasicas {
+  background-color: green;
+}
